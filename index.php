@@ -1,0 +1,32 @@
+<?php ?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To Do List</title>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css"
+    integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw=="
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="./assets/style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="todo-app">
+            <h1>To Do List</h1>
+            <form class="input-area" onsubmit="event.preventDefault();">
+                <input type="text" class="text" id="input-task" placeholder="Tambahkan tugas baru...">
+                <button type="button" id="add-task-btn">
+                    <i class="fa-solid fa-plus"></i>
+                </button>
+            </form>
+
+            <div class="todo-container">
+                <ul id="task-list"></ul>
+            </div>
+        </div>
+    </div>
+</body>
+<script src="./assets/script.js"></script>
+</html>
