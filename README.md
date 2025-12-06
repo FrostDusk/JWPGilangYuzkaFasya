@@ -14,7 +14,7 @@ Aplikasi sederhana berbabsi PHP untuk mencatat tugas harian.
 
 ## Cara Menjalankan
 1. Salin folder ke 'htdocs/'
-2. Jalankan XAMPP dan buka di 'http://localhost/[nama folder]'
+2. Jalankan XAMPP dan buka di 'http://localhost/[nama_folder]'
 
 ## Kontributor
 - [Gilang Yuzka Fasya] (https://github.com/FrostDusk) 
