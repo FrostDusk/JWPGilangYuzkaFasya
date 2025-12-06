@@ -22,7 +22,7 @@ Aplikasi sederhana berbabsi PHP untuk mencatat tugas harian.
 ## Kelompok Pekerjaan 1
 Tampilan code editor, struktur folder, dan XAMPP
 
-![Screenshot](ss/KelPekerjaan1,1.png)
+![Screenshot](ss/KelPekerjaan1.png)
 
 ![Screenshot](ss/KelPekerjaan1,2.png)
 
