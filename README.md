@@ -19,23 +19,4 @@ Aplikasi sederhana berbabsi PHP untuk mencatat tugas harian.
 ## Kontributor
 - [Gilang Yuzka Fasya] (https://github.com/FrostDusk) 
 
-## Kelompok Pekerjaan 1
-Tampilan code editor, struktur folder, dan XAMPP
 
-
-
-![Screenshot](ss/KelPekerjaan1,2.png)
-
-
-## Kelompok Pekerjaan 2
-Tampilan form input dan list task
-
-![Screenshot](ss/KelPekerjaan2.png)
-
-
-## Kelompok Pekerjaan 3
-Tampilan halaman to do list dengan fitur checkbox dan hapus data
-![Screenshot](ss/KelPekerjaan3,1.png)
-
-Tampilan database
-![Screenshot](ss/KelPekerjaan3,2.png)
