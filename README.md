@@ -27,6 +27,4 @@ Aplikasi sederhana berbabsi PHP untuk mencatat tugas harian.
 ![Screenshot](ss/KelPekerjaan2.png)
 
 ## Kelompok Pekerjaan 3
-
-![Screenshot](ss/KelPekerjaan2.png)
-erjaan2.png)
+![Screenshot](ss/KelPekerjaan3.png)
