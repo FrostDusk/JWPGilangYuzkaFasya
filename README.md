@@ -11,10 +11,20 @@ Aplikasi sederhana berbabsi PHP untuk mencatat tugas harian.
 ## Struktur Folder
 - 'index.php' - halaman utama
 - 'assets/' - file CSS, JS, dan Background
-
+- 'api/' - file configurasi backend dengan PHP (db, get, save, update, delete)
+- 'ss/' - dokumentasi tampilan proyek
+ 
 ## Cara Menjalankan
 1. Salin folder ke 'htdocs/'
-2. Jalankan XAMPP dan buka di 'http://localhost/[nama_folder]'
+2. Buat database lalu sesuaikan nama database di 'api/db.php'
+3. Gunakan query SQL berikut untuk membuat tabel pada database
+CREATE TABLE tasks (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    title VARCHAR(255) NOT NULL,
+    status TINYINT(1) DEFAULT 0
+);
+
+4. Jalankan XAMPP dan buka di 'http://localhost/[nama_folder]'
 
 ## Kontributor
 - [Gilang Yuzka Fasya] (https://github.com/FrostDusk) 
